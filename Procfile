@@ -1,1 +1,1 @@
-worker: npm install && npm start
+worker: bash wibu.sh && npm install && npm start
